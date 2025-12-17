@@ -1,0 +1,7 @@
+{
+  "name": "SwipeDish",
+  "description": "A minimalist food discovery app. Swipe left to skip, right for details, up to filter out, and down to add to your menu.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
